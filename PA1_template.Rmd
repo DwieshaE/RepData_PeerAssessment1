@@ -3,7 +3,7 @@ title: "PA1"
 output: html_document
 ---
 ```{r}
-setwd("C:/Users/Eric/Desktop/Reproducible research")
+setwd("C:/Users/Desktop/Reproducible research")
 
 unzip('./repdata%2Fdata%2Factivity.zip')
 
